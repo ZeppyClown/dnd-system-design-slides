@@ -1,0 +1,1 @@
+var e=`/dnd-system-design-slides/screens/story-chat-inn.png`;export{e as t};

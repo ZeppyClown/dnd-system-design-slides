@@ -1,0 +1,1 @@
+var e=`/dnd-system-design-slides/screens/cutscene-blue-light.jpg`;export{e as t};

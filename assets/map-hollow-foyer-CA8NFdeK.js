@@ -1,0 +1,1 @@
+var e=`/dnd-system-design-slides/screens/map-cellar.png`,t=`/dnd-system-design-slides/screens/map-hollow-foyer.png`;export{e as n,t};

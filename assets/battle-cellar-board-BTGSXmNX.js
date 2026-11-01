@@ -1,0 +1,1 @@
+var e=`/dnd-system-design-slides/screens/battle-cellar-board.png`;export{e as t};

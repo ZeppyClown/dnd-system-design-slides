@@ -1,0 +1,1 @@
+var e=`/dnd-system-design-slides/screens/battle-manor-board.png`;export{e as t};
